@@ -8,7 +8,7 @@
 <br/>
 💼 You can find my portfolio at www.mehronlatifi.com
 <br/>
-📫 Feel free <a href="mailto:mehrons@gmail.com" target="_blank">contact me!</a>
+📫 Feel free <a href="mailto:mehrons@gmail.com">contact me!</a>
 
 <hr/>
 
