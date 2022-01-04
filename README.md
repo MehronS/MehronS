@@ -2,7 +2,7 @@
 
 👨 I am Mehron.
 <br/>
-📜 I have a degree in Comprehensive Mathematics and also graduated from <a href="https://www.fullstackacademy.com/">Fullstack Academy</a> Coding Bootcamp
+📜 I have a degree in Comprehensive Mathematics and also graduated from <a href="https://www.fullstackacademy.com/" target="_blank">Fullstack Academy</a> Coding Bootcamp
 <br/>
 🎮 🏈 My favorite pass time is playing video games and watching football
 <br/>
