@@ -7,6 +7,8 @@
 🎮 🏈 My favorite pass time is playing video games and watching football
 <br/>
 💼 You can find my portfolio at www.mehronlatifi.com
+<br/>
+📫 Feel free <a href="mailto:mehrons@gmail.com">contact me!</a>
 
 <hr/>
 
