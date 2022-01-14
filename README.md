@@ -13,7 +13,7 @@
 <hr/>
 
 <img align="left" src="https://camo.githubusercontent.com/84c2586aa67309f6fa224fdf5fdf33a633239375397a8e753ac1e7cc727f5458/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/javascript--v1.png" style="max-width: 100%;" alt="JavaScript">
-<img align="left" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" data-canonical-src="https://img.icons8.com/color/48/000000/typescript--v1.png" style="width: 50px, height: 50px" alt="TypeScript">
+<img align="left" src="https://img.icons8.com/color/48/000000/typescript.png" data-canonical-src="https://img.icons8.com/color/48/000000/typescript.png" style="width: 50px, height: 50px" alt="TypeScript">
 <img align="left" src="https://camo.githubusercontent.com/b9fe9f8e52c6fd30d814c24f3eb71cb09d7f5bc82d7f67a384055de93fdbb0bf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="max-width: 100%;">
 <img align="left" src="https://camo.githubusercontent.com/dc75aee770dff630309493116eeebd6a39c7042e4e94780a5e6c8f107bebe76f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/css3.png" style="max-width: 100%;">
 <img align="left" src="https://camo.githubusercontent.com/38b72f440cbf774558b9399b27bf659066e94b1eddc4510a9607ced1f028f6d0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/react-native.png" style="max-width: 100%;">
